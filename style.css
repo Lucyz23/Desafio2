@@ -1,0 +1,180 @@
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+header {
+margin-left: -1px;
+position: absolute;
+width: 1452px;
+height: 197px;
+top: 0px;
+background: #1E1E1E;
+word-spacing: 10px;
+}
+
+ul {
+    text-align: center;
+    font-size: 32px;
+    line-height: 44px;;
+    color: #FFFFFF;
+}
+
+li {
+    display: inline-block;
+    margin: 25px;
+    width: 165px;
+    left: 617px;
+   top: 78px;
+   margin-top: 78px;
+   font-family: 'Lily Script One';
+  }
+
+.banner {
+    height: 558px;
+    width: 1500px;
+    background-position: center;
+    background: url(disney-banner.png);
+    margin-top: 170px;
+    left: -11px;
+    top: 194px;
+    background-size: cover;
+}
+
+.banner-galeria {
+    background-position: center;
+    background-size: cover;
+    display: inline-block;
+    height: 200px;
+}
+
+.imgs-disney {
+    width: 18.8%;
+    margin-left: .5%;
+}
+
+#siteDisney, #siteDisney2 {
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+#img1 {
+    background-image: url('./album/encanto.png');
+    width: 353px;
+    height: 513px;
+    border-radius: 61px;
+    margin-top: 114px;
+    margin-left: 138px;
+}
+
+#img2 {
+    background-image: url('./album/raya.jpg');
+    width: 353px;
+    height: 513px;
+    left: 138px;
+    top: 826px;
+    margin-left: 53px;
+}
+
+#img3 {
+    background-image: url('./album/buzz.png');
+    margin-right: 0;
+    width: 353px;
+    height: 513px;
+    top: 826px;
+    border-radius: 61px;
+    margin-left: 53px;
+}
+
+#img4 {
+    background-image: url('./album/toy.jpg');
+    margin-right: 0;
+    width: 353px;
+    height: 513px;
+    margin-top: 58px;
+    border-radius: 61px;
+    margin-left: 138px;
+}
+
+#img5 {
+    background-image: url('./album/irmao-urso.png');
+    margin-right: 0;
+    width: 353px;
+    height: 513px;
+    left: 138px;
+    top: 826px;
+    border-radius: 61px;
+    margin-left: 53px;
+}
+
+#img6 {
+    background-image: url('./album/luca.png');
+    margin-right: 0;
+    width: 353px;
+    height: 513px;
+    left: 138px;
+    top: 826px;
+    border-radius: 61px;
+    margin-left: 53px;
+}
+
+footer {
+position: absolute;
+box-sizing: border-box;
+background: #1E1E1E;
+position: absolute;
+width: 1452px;
+height: 197px;
+left: -12px;
+top: 2124px;
+}
+
+footer p {
+position: absolute;
+color: #FFFFFF;
+width: 1220px;
+height: 65px;
+margin-left: 52px;
+margin-top: 50px;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+font-family: 'Actor';
+}
+
+#img7 {
+background-image: url('./album/youtube.png');
+display: inline-block;
+position: absolute;
+margin-top: 240px;
+margin-left: 1020px;
+width: 92px;
+height: 80px;
+}
+
+#img8 {
+    background-image: url('./album/insta3.png');
+    display: inline-block;
+    padding: 5px;
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 800px;
+    width: 75px;
+    height: 80px;
+    margin-left: 1100px;
+    }
+
+    #img9 {
+        background-image: url('./album/disney-plus.png');
+        display: inline-block;
+        padding: 10px;
+        position: absolute;
+        margin-top: 210px;
+        margin-left: 1190px;
+        width: 121px;
+        height: 119px;
+}
